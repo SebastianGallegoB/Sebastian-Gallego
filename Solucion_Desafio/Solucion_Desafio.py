@@ -15,7 +15,7 @@ promedio = (nota1+nota2+nota3+nota4+nota5)/5
 if promedio >= 60:(
     print("Aprobado")
 )
-elif 40 < promedio > 60: (
+elif 40 < promedio < 60: (
     print("En recuperación")
 )
 else: (
